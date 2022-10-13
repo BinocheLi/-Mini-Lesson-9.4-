@@ -33,4 +33,3 @@ Include the installation instructions here.
 [Binoche Li](https://www.linkedin.com/in/binoche-li-b78b2b92/)
 <p><a href="https://www.linkedin.com/in/binoche-li-b78b2b92/" title="Mengling">Mengling Li</a> - Linkedin</p>
 
-# Mini-Lesson-9.4
